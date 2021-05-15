@@ -1,5 +1,5 @@
 # NYC-Taxi-Demand-Serving
-- Streamlit + BentoML + Random Forest
+- Streamlit + BentoML + Random Forest, Torch
 
 
 <br />
