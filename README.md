@@ -1,4 +1,4 @@
-# NYC-Taxi-Serving
+# NYC-Taxi-Demand-Serving
 - Streamlit + BentoML + Random Forest
 
 
