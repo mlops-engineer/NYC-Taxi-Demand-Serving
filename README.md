@@ -67,7 +67,7 @@ python3 main.py
 bentoml list
 ```
 
-<img src="https://www.dropbox.com/s/o2kgqt7brvia2qf/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-16%20%EC%98%A4%EC%A0%84%202.33.23.png?raw=1">
+<img src="https://www.dropbox.com/s/fmz9mas25omldhq/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-16%20%EC%98%A4%EC%A0%84%203.21.40.png?raw=1">
 
 
 <br />
