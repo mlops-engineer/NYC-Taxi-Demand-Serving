@@ -1,0 +1,11 @@
+local: &local
+  project: your_project
+  jwt: your_key.json
+  save_folder: .
+
+dev:
+  <<: *local
+
+prod:
+  <<: *local
+

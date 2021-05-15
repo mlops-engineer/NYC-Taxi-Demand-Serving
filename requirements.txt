@@ -1,0 +1,5 @@
+scikit-learn==0.21.3
+pandas==0.24.2
+pandas-gbq==0.11.0
+BentoML==0.12.1
+streamlit==0.81.1
