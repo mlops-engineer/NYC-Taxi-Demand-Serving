@@ -2,9 +2,10 @@ import argparse
 import os
 import pandas as pd
 import rf_trainer
+import torch_trainer
 from base_data import base_query
 from preprocess import preprocess_df
-from nyc_taxi_prediction import NycTaxiPredictionRFService
+from nyc_taxi_prediction import NycTaxiPredictionRFService, NycTaxiPredictionTorchService
 from utils import init_config
 
 if __name__ == '__main__':
