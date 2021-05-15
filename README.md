@@ -7,7 +7,7 @@
 
 ### Architecture
 
-<img src="https://www.dropbox.com/s/nvcfwf5lmgco1ld/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-16%20%EC%98%A4%EC%A0%84%203.10.12.png?raw=1">
+<img src="https://www.dropbox.com/s/gzk8gpkdpcciem5/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-16%20%EC%98%A4%EC%A0%84%203.12.53.png?raw=1">
 
 
 - But, Pytorch model is not yet complete. I keep getting an error. I plan to correct the error in the future.
