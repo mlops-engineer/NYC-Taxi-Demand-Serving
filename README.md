@@ -97,3 +97,18 @@ streamlit run app.py
 
 <img src="https://www.dropbox.com/s/yau6zfguczu2bgu/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-05-16%20%EC%98%A4%EC%A0%84%202.30.49.png?raw=1">
 
+<br />
+
+
+### Project improvement plan(TODO)
+- [ ] Pytorch Model
+- [ ] Model Manager : MLFlow
+- [ ] Model Output Management : Save BigQuery Table
+- [ ] Hyper Parameter Tuning : Microsoft NNI
+- [ ] Scheduling Tool : Prefect
+- [ ] Dockerize, Docker Compose
+- [ ] Streamlit Dashboard : Production Data Distribution, Explainable AI
+- [ ] Deploy Google App Engine
+
+
+<br />
